@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm an junior student majoring in AI at Xamen University of Technology, diving into Neural Networks🥹
 
-Let's connect on GitHub!
+## Let's connect on GitHub!
 <!--
 **Caibospoem/Caibospoem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
